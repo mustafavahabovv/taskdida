@@ -26,6 +26,7 @@ export const router = createBrowserRouter([
                 path: "/wish",
                 element: <Wish />,
             },
+            
         ],
     },
     {
